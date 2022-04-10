@@ -6,7 +6,7 @@
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-    <p align="center"><b style=font-size:40px>SOC analyst</b></p>
+    <p align="center"><b style=font-size:40px>XENA22 - SOC analyst</b></p>
   </samp>
 
 </p>
@@ -22,7 +22,7 @@ I am a SOC analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :TryHackMe: In my spare time I like to learn new methods of exploiting vulnerabilities.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-meresse/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-xena22-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-meresse/)
 
 ---
 
