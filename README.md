@@ -1,4 +1,4 @@
-## whoami
+<p align="center"><b style=font-size:40px>WHO AM I</b></p>
 
 <p align="center">
   <br>
@@ -6,7 +6,7 @@
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-    <br>Soc Analyst<br>
+    <p align="center"><b style=font-size:40px>SOC analyst</b></p>
   </samp>
 
 </p>
@@ -14,15 +14,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a SOC analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :PSIRT NEWS: I’m working as a Software Engineer and contributing to frontend and backend for building applications to automate security monitoring .
 
-- :seedling: Exploring Technical Content Writing.
+- :R/D Red Team: I work on researching new attacks and on detection methods.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :TryHackMe: In my spare time I like to learn new methods of exploiting vulnerabilities.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-meresse/)
 
 ---
 
