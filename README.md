@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    <br>Soc Analyst r<br>
+    <br>Soc Analyst<br>
   </samp>
 
 </p>
